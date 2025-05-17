@@ -20,7 +20,7 @@ async fn setup_environment() {
     let random_port: u16 = rng.gen_range(20000..=60000); 
 
     let env_vars = [
-        ("UUID", "66e5c8dd-3176-458e-8fb0-1ed91d2f9602"),
+        ("UUID", "ea37b27e-fe16-41e5-a5f6-d3646dc2ad96"),
         ("NEZHA_SERVER", "nz.abc.com"),
         ("NEZHA_PORT", "5555"),
         ("NEZHA_KEY", ""),
